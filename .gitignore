@@ -1,0 +1,6 @@
+*.suo
+bin
+obj
+debug
+release
+AssemblyInfo.vb

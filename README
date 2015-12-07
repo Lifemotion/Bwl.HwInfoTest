@@ -1,0 +1,10 @@
+Bwl.HwInfoTest
+Igor Koshelev (igor@lifemotion.ru)
+
+VB.NET Example for Open Hardware Monitor.
+Shows CPU temperature.
+
+refs/* contains Open Hardware Monitor (http://openhardwaremonitor.org/) binaries and license. 
+See more on official site of OHM. All rights for Open Hardware Monitor are reserved by it authors.
+
+Bwl.HwInfoTest/* contains VB.NET example. It is licensed as Public Domain with no warranties and restrictions at all. 
